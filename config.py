@@ -10,3 +10,5 @@ client_secret = "ClientSecret_X8mK2pQ9vN7z"
 DATABASE_URL = "mysql://demo_user:DemoPass123@localhost:3306/demo"
 
 token = "Qx8Lm2Np9Vr4Kt7Hs6Wd3Za5"
+
+secret = "Px9Lm4Qv7Nk2Rt8Ws5Za3Hd6"
